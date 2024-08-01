@@ -1,0 +1,5 @@
+BASE_URL = '/api/v1/'
+CREATE_USER_URL = BASE_URL + 'users/'
+GET_TOKEN_URL = BASE_URL + 'jwt/create/'
+GET_TASKS_URL = BASE_URL + 'tasks/'
+SET_ACCESS_URL = BASE_URL + 'task-access/'
